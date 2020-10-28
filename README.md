@@ -1,2 +1,2 @@
 # socketJavaTrainning
-Building a simulator Text Chat Messenger using a socket, a simple gui and threads
+Building a Text Chat Messenger simulator using a socket, a simple gui and threads
