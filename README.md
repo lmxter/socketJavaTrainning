@@ -1,2 +1,3 @@
 # socketJavaTrainning
-Building a basic Text Chat Messenger simulator using a socket, a simple gui and threads
+Building a basic Chatbot Messenger simulator using sockets, a simple gui and threads
+# Coded by Luis Quimbayo Marin
